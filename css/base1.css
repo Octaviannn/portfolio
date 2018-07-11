@@ -11,7 +11,7 @@ body {
 	--color-bg: #fff;
 	--color-link: #000;
 	--color-link-hover: #000;
-	--color-logo-bg: #9B0CFF;                    /*COLORE SFONDO*/
+	--color-logo-bg: #30e3ca;                    /*COLORE SFONDO*/
 	font-family: 'Inconsolata', monospace;
 	height: 100vh;
 	color: var(--color-text);
@@ -160,7 +160,9 @@ main {
 	margin: 0 0 1.5rem;
 	line-height: 0.5;
 	text-transform: lowercase;
+	font-family: helvetica;
 }
+
 
 .intro__subtitle-wrap {
 	text-transform: lowercase;
