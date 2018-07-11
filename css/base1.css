@@ -121,6 +121,14 @@ main {
 	height: 100vh;
 }
 
+.incentro{                   /*centrare immagine*/
+	position: absolute;
+   top: 50%;
+   left: 50%;
+	 transform: translate(-50%, -50%);
+
+}
+
 .intro__logo {
 	background: transparent;
 	display: flex;
