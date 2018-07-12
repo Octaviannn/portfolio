@@ -22,7 +22,7 @@
 }
 
 .grid__item--bg {
-	background: #0e0b94;
+	background: #0000ff;
 }
 
 .grid__item:nth-child(even) {
@@ -69,7 +69,7 @@
 	margin: 0 -3rem 2rem 0;
 	color: #fff;
 	text-align: right;
-	text-transform: lowercase;
+/*	text-transform: lowercase;*/
 }
 
 .grid__item-title--inverted {
@@ -82,8 +82,8 @@
 	font-weight: bold;
 	display: block;
 	font-size: 1.5rem;
-	color: #9e0db7;
-	text-transform: lowercase;
+	color: #0000ff;
+	/*text-transform: lowercase;*/
 	display: flex;
 	justify-content: flex-end;
 }

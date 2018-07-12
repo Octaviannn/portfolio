@@ -81,7 +81,7 @@ html  {
 .tooltip1 {
 	display: inline-block;
 	position: relative;
-	color: #ffb80d;
+	color: #c1eaf2;
 	background-size: cover;
 }
 
@@ -95,7 +95,7 @@ html  {
 	width: 100%;
 	bottom: 0;
 	left: 0;
-	background: linear-gradient(40deg, #ffb80d 0%, #0000ff 100%);
+	background: linear-gradient(40deg, #c1eaf2 0%, #0000ff 100%);
 	transform: scale3d(0,1,1);
 	transform-origin: 100% 50%;
 }
