@@ -6,6 +6,14 @@
     --color-info: #760fd5;
 }
 
+.testoCentrato{
+	text-align: center;
+}
+
+html  {
+      overflow: hidden;
+}
+
 .iconbutton {
 	display: flex;
 	align-items: center;
