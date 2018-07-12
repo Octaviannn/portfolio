@@ -412,7 +412,7 @@ main {
 }
 
 .pater::before {
-	content: '\2015  Sponsor';
+	content: " MUSIC";
 	word-spacing: -5px;
 	margin: 0 0 0 0.15rem;
 	color: #000;
