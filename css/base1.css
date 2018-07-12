@@ -12,7 +12,7 @@ body {
 	--color-link: #000;
 	--color-link-hover: #000;
 	--color-logo-bg: #30e3ca;                    /*COLORE SFONDO*/
-	font-family: 'Inconsolata', monospace;
+	font-family: 'helvetica', monospace;
 	height: 100vh;
 	color: var(--color-text);
 	background-color: var(--color-bg);
