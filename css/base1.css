@@ -12,7 +12,7 @@ body {
 	--color-bg: #fff;
 	--color-link: #000;
 	--color-link-hover: #000;
-	--color-logo-bg: #30e3ca;                    /*COLORE SFONDO*/
+	--color-logo-bg: #0000ff;                    /*COLORE SFONDO*/
 	font-family: 'Helvetica', monospace;
 	height: 100vh;
 	color: var(--color-text);
@@ -170,6 +170,7 @@ main {
 	line-height: 0.5;
 	text-transform: lowercase;
 	font-family: helvetica;
+	color: #ffffff;
 }
 
 
@@ -180,6 +181,7 @@ main {
 .intro__subtitle {
 	margin: 0;
 	font-size: 0.85rem;
+	color: #fff;
 }
 
 .intro__info {
@@ -202,11 +204,11 @@ main {
 	padding: 1rem 0 0 0;
 	display: inline-block;
 	cursor: pointer;
-	color: #980a0a;
+	color: #ffb80d;
 }
 
 .intro__enter:hover {
-	color: #000;
+	color: #ffe39e;
 }
 
 .no-js .intro__enter {
@@ -217,6 +219,7 @@ main {
 	text-transform: lowercase;
 	position: relative;
 	font-size: 0.85rem;
+	color: #fff;
 }
 
 .intro__content {
@@ -247,6 +250,7 @@ main {
 
 .intro__content-text {
 	font-size: 0.85rem;
+	color: #fff;
 }
 
 .intro__location {
@@ -255,6 +259,7 @@ main {
 	justify-content: center;
 	position: relative;
 	font-size: 0.85rem;
+	color: #fff;
 }
 
 .intro__social {
@@ -264,11 +269,13 @@ main {
 	position: relative;
 	font-size: 0.85rem;
 	margin: 1rem 0;
+	color: #fff;
 }
 
 .intro__social-item {
 	text-transform: lowercase;
 	margin: 0 1rem;
+	color: #fff;
 }
 
 .sidebar {
@@ -330,6 +337,7 @@ main {
 	position: relative;
 	padding: 0 0 0 4rem;
 	margin: 0.5rem 0 0 0;
+	color: #0000ff;
 }
 
 .slideshow__item-title--larger {
@@ -469,6 +477,7 @@ main {
 	}
 	.intro__content-title {
 		display: block;
+		color: #fff;
 	}
 	.intro__title-wrap {
 		grid-area: 2 / 1 / 2 / 3;
@@ -488,6 +497,7 @@ main {
 		align-self: end;
 		justify-self: start;
 		grid-area: 2 / 1 / 2 / 1;
+		opacity: 0.2;
 	}
 	.intro__social {
 		grid-area: 2 / 4 / 2 / 4;

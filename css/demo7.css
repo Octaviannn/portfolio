@@ -70,12 +70,23 @@ html  {
 	display: inline-block;
 	position: relative;
 	color: #572adc;
-	background: linear-gradient(40deg, #2812da 0%, #e82aa3 100%);
+	background: linear-gradient(40deg, #0000ff 0%, #53a0fd 100%);
 	background-size: cover;
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 	background-clip: text;
 	text-fill-color: transparent;
+}
+
+.tooltip1 {
+	display: inline-block;
+	position: relative;
+	color: #ffb80d;
+	background-size: cover;
+}
+
+.tooltip1:hover {
+	color: #ffe39e;
 }
 
 .tooltip__line {
@@ -84,7 +95,7 @@ html  {
 	width: 100%;
 	bottom: 0;
 	left: 0;
-	background: linear-gradient(40deg, #2812da 0%, #e82aa3 100%);
+	background: linear-gradient(40deg, #ffb80d 0%, #0000ff 100%);
 	transform: scale3d(0,1,1);
 	transform-origin: 100% 50%;
 }
