@@ -464,7 +464,7 @@ main {
 		-webkit-writing-mode: vertical-rl;
 		writing-mode: vertical-rl;
 		grid-area: 2 / 4 / 2 / 4;
-		align-self: start;
+		align-self: center;
 		justify-self: end;
 		margin-bottom: 3rem;
 	}
