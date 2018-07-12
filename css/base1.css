@@ -379,7 +379,9 @@ main {
 
 .slideshow__item-img-inner {
 	background-size: cover;
-	background-position: 50% 50%;
+	/*background-position: 50% 50%;*/
+	top:0%;
+	left:0%;
 	width: 100%;
 	height: 100%;
 }
@@ -442,7 +444,7 @@ main {
 }
 
 .pater__img-inner {
-	background: url(../img/Divi.jpg) no-repeat 50% 50%;
+	background: url(../img/Divi.png) no-repeat 50% 50%;
 	height: 25vh;
 	width: 100%;
 	background-size: cover;
