@@ -205,6 +205,7 @@ main {
 	display: inline-block;
 	cursor: pointer;
 	color: #ffb80d;
+	font-size: 28pt;
 }
 
 .intro__enter:hover {
@@ -329,6 +330,7 @@ main {
 	right: 0;
 	font-size: 1.15rem;
 	margin: 1rem 1rem 0 0;
+	color: #0000ff;
 }
 
 .slideshow__item-title {

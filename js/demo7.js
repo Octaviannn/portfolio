@@ -34,6 +34,8 @@ new Nearby(link2, {
     }
 });
 
+
+
 /**************** Link3 ("wilderness") ****************/
 const link3 = document.getElementById('link3');
 const tooltipWave = link3.querySelector('.tooltip__wave > span');
