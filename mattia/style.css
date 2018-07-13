@@ -126,13 +126,13 @@ body {
 }
 
 a {
-	color: #222223;
+	color: #0000ff;
 	text-decoration: none;
 }
 
 a:hover {
-	color: blue;
-	border-bottom: 1px solid blue;
+	color: #000;
+	/*border-bottom: 1px solid blue;*/
 }
 
 a:focus,
