@@ -21,7 +21,7 @@
 	grid-template-columns: repeat(2,calc(50% - 5vw));
 	grid-column-gap: 10vw;
 	grid-row-gap: 25vh;
-	max-width: 1300px;
+	max-width: 1500px;
 }
 
 .grid__item {
@@ -34,7 +34,7 @@
 }
 
 .grid__item:nth-child(even) {
-	margin-top: -10vh;
+	margin-top: 0;
 }
 
 .grid__item-imgwrap,
@@ -74,10 +74,10 @@
 
 .grid__item-title {
 	font-size: 3.5vw;
-	margin: 0 -3rem 2rem 0;
+	margin: 0 3rem 2rem 0;
 	color: #fff;
 	text-align: right;
-/*	text-transform: lowercase;*/
+	text-transform: lowercase;
 }
 
 .grid__item-title--inverted {
