@@ -16,6 +16,7 @@ html  {
 
 .blueee{
 	color: #0000ff;
+	z-index: 9001;
 }
 
 .iconbutton {
