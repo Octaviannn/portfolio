@@ -310,11 +310,11 @@ main {
 	border-bottom: 1px solid #f3f3f3;
 }
 
-.slideshow__item::after {
-	content: '+';
+.cv {
+	content: 'CV';
 	position: absolute;
 	bottom: 0;
-	right: calc(75vh + 4rem);
+	right: calc(5vh);
 	margin: 1rem;
 	font-size: 2rem;
 	line-height: 0.5;
