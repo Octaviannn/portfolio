@@ -17,6 +17,6 @@ $(document).ready(function() {
 	setTimeout(function(){
 		$('body').addClass('loaded');
 		$('h1').css('color','#f7f3f3');
-	}, 3000);
+	},1000);
 
 });
