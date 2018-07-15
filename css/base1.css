@@ -11,7 +11,7 @@ body {
 	--color-text: #000;
 	--color-bg: #fff;
 	--color-link: #000;
-	--color-link-hover: #000;
+	--color-link-hover: #ffe39e;
 	--color-logo-bg: #0000ff;                    /*COLORE SFONDO*/
 	font-family: 'Helvetica', monospace;
 	height: 100vh;
@@ -297,7 +297,7 @@ main {
 }
 
 .menu__item--current {
-	color: #000;
+	color: #aaa;
 }
 
 .slideshow {
@@ -425,10 +425,10 @@ main {
 }
 
 .pater::before {
-	content: " MUSIC";
-	word-spacing: -5px;
+	content: "m u s i c";
+	/*word-spacing: -5px;*/
 	margin: 0 0 0 0.15rem;
-	color: #000;
+	color: #0000ff;
 }
 
 .pater__description {
@@ -541,13 +541,13 @@ main {
 		padding: 0 4rem 0 0;
 	}
 	.slideshow__item-number {
-		right: 4rem;
+		right: 1rem;
 	}
 	.slideshow__item-title {
 		font-size: 2rem;
 	}
 	.slideshow__item-titlewrap {
-		top: 5vh;
+		top: 0;
 		width: 75vh;
 		right: 4rem;
 		left: auto;
