@@ -168,7 +168,7 @@ main {
 	letter-spacing: -0.15rem;
 	margin: 0 0 1.5rem;
 	line-height: 0.5;
-	text-transform: lowercase;
+	/*text-transform: lowercase;*/
 	font-family: helvetica;
 	color: #ffffff;
 }
