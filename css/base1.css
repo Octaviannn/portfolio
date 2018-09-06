@@ -204,12 +204,12 @@ main {
 	padding: 1rem 0 0 0;
 	display: inline-block;
 	cursor: pointer;
-	color: #c1eaf2;
+	color: #fff;
 	font-size: 28pt;
 }
 
 .intro__enter:hover {
-	color: #c1eaf2;
+	color: #fff;
 }
 
 .no-js .intro__enter {
